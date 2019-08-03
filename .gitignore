@@ -1,3 +1,4 @@
 # python virtual environment
 venv/*
 .idea/*
+django_practice/__pycache__/*
